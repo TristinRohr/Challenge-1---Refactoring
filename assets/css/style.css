@@ -9,6 +9,11 @@ body {
   background-color: #d9dcd6;
 }
 
+nav {
+  position: absolute;
+  left: 450px;
+  top: 40px;
+}
 .header {
   padding: 20px;
   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
